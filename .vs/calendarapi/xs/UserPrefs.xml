@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{73CFF920-2DA8-4B73-9368-9FDECF21D597}|Default">
+  <MonoDevelop.Ide.ItemProperties.lectionapi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Model/CityWeather.cs">
+    <Files>
+      <File FileName="Controllers/WeatherForecastController.cs" Line="34" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="25" Column="48" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="35" Column="16" />
+      <File FileName="WeatherForecast.cs" Line="8" Column="1" />
+      <File FileName="Clients/WeatherClient.cs" Line="26" Column="10" />
+      <File FileName="Constants.cs" Line="10" Column="1" />
+      <File FileName="Model/CityWeather.cs" Line="33" Column="6" />
+      <File FileName="Model/CityParameters.cs" Line="10" Column="1" />
+      <File FileName="Model/WeatherResponse.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lectionapi" expanded="True">
+            <Node name="lectionapi" expanded="True">
+              <Node name="Clients" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="CityWeather.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

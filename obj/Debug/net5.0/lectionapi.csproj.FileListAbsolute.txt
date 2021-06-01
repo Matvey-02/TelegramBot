@@ -1,0 +1,81 @@
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/appsettings.Development.json
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/appsettings.json
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/lectionapi.deps.json
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/lectionapi.runtimeconfig.json
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/lectionapi.runtimeconfig.dev.json
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/lectionapi.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/ref/lectionapi.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/lectionapi.pdb
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.csprojAssemblyReference.cache
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.AssemblyInfoInputs.cache
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.AssemblyInfo.cs
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.csproj.CoreCompileInputs.cache
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/staticwebassets/lectionapi.StaticWebAssets.Manifest.cache
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/staticwebassets/lectionapi.StaticWebAssets.xml
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/scopedcss/bundle/lectionapi.styles.css
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.RazorTargetAssemblyInfo.cache
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.csproj.CopyComplete
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.dll
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/ref/lectionapi.dll
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.pdb
+/Users/yurii/Projects/lectionapi/obj/Debug/net5.0/lectionapi.genruntimeconfig.cache
+/Users/yurii/Projects/lectionapi/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\appsettings.json
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\lectionapi.exe
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\lectionapi.deps.json
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\lectionapi.runtimeconfig.json
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\lectionapi.runtimeconfig.dev.json
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\lectionapi.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\ref\lectionapi.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\lectionapi.pdb
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.csprojAssemblyReference.cache
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.AssemblyInfoInputs.cache
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.AssemblyInfo.cs
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.csproj.CoreCompileInputs.cache
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\staticwebassets\lectionapi.StaticWebAssets.Manifest.cache
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\staticwebassets\lectionapi.StaticWebAssets.xml
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\scopedcss\bundle\lectionapi.styles.css
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.RazorTargetAssemblyInfo.cache
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.csproj.CopyComplete
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\ref\lectionapi.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.pdb
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\obj\Debug\net5.0\lectionapi.genruntimeconfig.cache
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\const.DESKTOP-2PF347N\Downloads\Telegram Desktop\lection\lectionapi\bin\Debug\net5.0\credentials.json
